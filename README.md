@@ -15,9 +15,9 @@
 Let’s connect and build something great!
    <p align="left">
       <a href="https://github.com/helloilef?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/helloilef?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/helloilef?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/helloilef?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
@@ -49,7 +49,7 @@ Let’s connect and build something great!
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=helloilef&show_icons=true&theme=gruvbox)
+![Ilef's GitHub stats](https://github-readme-stats.vercel.app/api?username=helloilef&show_icons=true&theme=gruvbox)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=helloilef&theme=gruvbox&border_radius=4.5) 
 
