@@ -49,8 +49,7 @@ Let’s connect and build something great!
 
 ### 📊 Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helloilef&show_icons=true&locale=en" alt="helloilef" /></p>
-![GitHub Streak](https://streak-stats.demolab.com?user=helloilef&theme=gruvbox&border_radius=4.5) 
+![Ilef's GitHub stats](https://github-readme-stats.vercel.app/api?username=helloilef&show_icons=true&theme=gruvbox)
 
 
 [youtube]: https://www.youtube.com/@ilefslife
