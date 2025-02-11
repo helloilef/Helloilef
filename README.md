@@ -43,13 +43,13 @@ Let’s connect and build something great!
 
 #
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/@ilefslife?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@ilefslife?sub_confirmation=1)
 
 #
 
 ### 📊 Stats
 
-![Ilef's GitHub stats](https://github-readme-stats.vercel.app/api?username=helloilef&show_icons=true&theme=gruvbox)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helloilef&show_icons=true&locale=en" alt="helloilef" /></p>
 ![GitHub Streak](https://streak-stats.demolab.com?user=helloilef&theme=gruvbox&border_radius=4.5) 
 
 
