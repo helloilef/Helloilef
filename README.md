@@ -6,11 +6,6 @@
 <br>
 💡 My journey started with a Bachelor’s degree in Software Engineering, and now I’m pursuing an IT engineering diploma at ENSI. Along the way, I’ve explored AI, brain-computer interfaces (BCI), operating systems, numerical methods, and digital transmission, always eager to deepen my expertise.
 <br>
-🛠️ I build projects from the ground up, combining C, Python, JavaScript, and PHP with structured problem-solving to create impactful software. Whether it’s a bank management system in C, an AI-powered tool for PPP analysis, or a web app that refines user experiences, every project reflects my commitment to growth and innovation.
-<br>
-🚀 I believe in continuous learning, refining my skills in data structures, algorithms, and software architecture, while also navigating electronics and transistors in my academic journey. My work is driven by curiosity and a desire to engineer solutions that matter.
-<br>
-🔍 Currently, I’m diving deeper into advanced programming concepts, web development, and AI, crafting projects that challenge me to think critically and code efficiently.
 
 Let’s connect and build something great!
    <p align="left">
