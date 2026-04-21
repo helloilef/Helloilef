@@ -2,10 +2,7 @@
 
 **`Software Engineer/Writer`**
 
-👋 Hey there! I'm Ilef Boualleg, an aspiring software engineer passionate about pushing the boundaries of technology. From designing efficient algorithms to building full-stack applications, I thrive on turning complex problems into elegant, real-world solutions.
-<br>
-💡 My journey started with a Bachelor’s degree in Software Engineering, and now I’m pursuing an IT engineering diploma at ENSI. Along the way, I’ve explored AI, brain-computer interfaces (BCI), operating systems, numerical methods, and digital transmission, always eager to deepen my expertise.
-<br>
+i like to code and stuff
 
 Let’s connect and build something great!
    <p align="left">
